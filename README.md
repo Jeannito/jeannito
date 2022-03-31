@@ -1,20 +1,22 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jean
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h2>
+<h1 align="center">I'm Jean
 </h1>
-<h3 align="center">I love coding and specially doing front part of projects</h3>
+<h3 align="center">I am a young developer and I love coding and specially doing front part of projects</h3>
 
 <h3 align="center">My organizations 👨‍💻</h3>
 
 <h4 align="center">📖 <a href="https://estory.io/" target="_blank" rel="noopener"> eStory  </a></h4>
 
-<h4 align="center">📹 <a href="https://pricecomparator.pro/" target="_blank" rel="noopener"> PriceComparator </a> </h4>
+<h4 align="center">🚀 <a href="https://pricecomparator.pro/" target="_blank" rel="noopener"> PriceComparator </a> </h4>
 
-<p align="left">
-<a href="https://twitter.com/JeannitoMtp" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Jeannito" height="25px" width="25px"/>
+<p align="center">
+    Follow me on : 
+<a href="https://twitter.com/JeannitoMtp" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Jeannito" height="20px" width="20px"/>
 </a>
-<a href="https://github.com/Jeannito" target="blank"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
-    alt="Jeannito" /></a>
+<a href="https://github.com/Jeannito" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Jeannito" height="20px" width="20px" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,9 +31,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="50" height="50" /> </a>
-<a href="https://webpack.js.org" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-        alt="webpack" width="50" height="50" /> </a>
 
 <h3 align="left">Front</h3>
 
