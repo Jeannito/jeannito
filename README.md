@@ -70,5 +70,3 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jeannito&show_icons=true&theme=react&count_private=true&hide=contribs,prs,stars" width="400">
-</br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeannito&theme=react" width="400">
