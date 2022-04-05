@@ -69,4 +69,6 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeannito&show_icons=true&theme=synthwave&count_private=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Jeannito&show_icons=true&theme=react&count_private=true&hide=contribs,prs,stars" width="400">
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeannito&show_icons=true&theme=react&count_private=true" width="400">
