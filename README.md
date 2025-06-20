@@ -84,9 +84,6 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeannito&show_icons=true&theme=react&count_private=true&hide=contribs,prs,stars" width="400">
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jeannito&show_icons=true&theme=react&count_private=true&hide=contribs,prs,stars" width="400">
