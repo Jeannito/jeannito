@@ -1,72 +1,92 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I'm Jean
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I'm Jean
 </h1>
-<h3 align="center">I am a young developer and I love coding and specially doing front part of projects</h3>
 
-<h3 align="center">My organizations 👨‍💻</h3>
-
-<h4 align="center">📖 <a href="https://estory.io/" target="_blank"> eStory</a> - A platform to share history and visualize the key events of stories on a timeline.</h4>
-
-<h4 align="center">🚀 <a href="https://pricecomparator.pro/" target="_blank"> PriceComparator</a> - Competitive analysis tool for e-commerces, brands or manufacturers</h4>
+<h3 align="center">Full-stack developer passionate about front-end and modern web technologies</h3>
 
 <p align="center">
-    Follow me on : 
-    <a href="https://twitter.com/JeannitoMtp" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Jeannito" height="20px" width="20px"/>
-    </a>
-    <a href="https://github.com/Jeannito" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Jeannito" height="20px" width="20px" />
-    </a>
+  <a href="https://github.com/Jeannito" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Jeannito" height="20px" width="20px" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
+### 👨‍💻 About me
 
-<h3 align="left">Basic</h3>
+- 💼 **3 years of experience with React JS** at **PriceComparator**, building e-commerce and competitive analysis tools.
+- 💼 **2 years as a consultant at Sopra Steria**, working for **Crédit Agricole** on Java / Spring Boot back-end systems.
+- 🚀 **Currently developing Carbioz**, a web app in **Next.js / TypeScript**, in collaboration with **France Carbon Agri** and **Crédit Agricole**.
+- 🔨 **Personal project:** [**eStory**](https://estory.io/) — Full-stack app (**Node.js / TypeScript** back-end, **React / TypeScript** front-end) to share history and visualize key events on a timeline.
+- 🎯 Strong interest in **front-end development**, UI/UX, and modern web architecture.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
-</a>
+---
 
-<h3 align="left">Front</h3>
+### 🏢 My projects / organizations
 
-<a href="https://fr.reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React JS" width="50" height="50" />
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
-</a>
-<a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" />
-</a>
+- 📖 [**eStory**](https://estory.io/) — Full-stack personal project to share and visualize history.
+- 🛍 **PriceComparator** — React developer for e-commerce competitive analysis solutions.
+- 🚀 [**Sopra Steria**](https://www.soprasteria.com/fr) — Consultant on digital transformation and web solutions.
 
-<h3 align="left">Backend</h3>
+---
 
-<a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-</a>
-<a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
-</a>
+### 🚀 Technologies & Tools
 
-<h3 align="left">Others</h3>
+#### 🌐 Front-end
 
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
-</a>
-
+<p>
+  <a href="https://fr.reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="50" height="50" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="50" height="50" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+  </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeannito&show_icons=true&theme=react&count_private=true&hide=contribs,prs,stars" width="400">
+#### ⚙ Back-end
+
+<p>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
+  </a>
+</p>
+
+#### 🛠 Other tools
+
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeannito&show_icons=true&theme=react&count_private=true&hide=contribs,prs,stars" width="400">
+</p>
